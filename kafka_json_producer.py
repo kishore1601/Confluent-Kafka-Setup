@@ -34,10 +34,10 @@ columns=['car_name', 'brand', 'model', 'vehicle_age', 'km_driven', 'seller_type'
        'fuel_type', 'transmission_type', 'mileage', 'engine', 'max_power',
        'seats', 'selling_price']
 
-API_KEY = 'HNUA2KUYENIP44PV'
-ENDPOINT_SCHEMA_URL  = 'https://psrc-35wr2.us-central1.gcp.confluent.cloud'
-API_SECRET_KEY = 'TH5n14kG1JAD6b8rmf92Y6wyXPY66De2kzbiZUS0jytRfkxpEM4rWdlGVSsM/nFR'
-BOOTSTRAP_SERVER = 'pkc-lzvrd.us-west4.gcp.confluent.cloud:9092'
+API_KEY = 'SXGCQBWUJ6NLF5RY'
+ENDPOINT_SCHEMA_URL  = 'https://psrc-mw731.us-east-2.aws.confluent.cloud'
+API_SECRET_KEY = 'BQT7qzPs1oHBfViSd/3OY4DY8J8k1N6htEgzSs5j7++F1HV4fHJMRtMv1HEfw4P1'
+BOOTSTRAP_SERVER = 'pkc-ymrq7.us-east-2.aws.confluent.cloud:9092'
 SECURITY_PROTOCOL = 'SASL_SSL'
 SSL_MACHENISM = 'PLAIN'
 SCHEMA_REGISTRY_API_KEY = 'PBEUUAHOC2GTPJWT'
